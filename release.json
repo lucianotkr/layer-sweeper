@@ -1,0 +1,53 @@
+{
+  "title": "LAYER SWEEPER",
+  "developer": "Lucy_jackso",
+  "publicUrl": "https://lucianotkr.github.io/layer-sweeper/",
+  "createdUtc": "2026-10-25T22:57:17.9696545Z",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705FD4D6451A31D36B3DF7DE96F83F30AC976C9B4A6D1E51671D8E2F33E2D0DA"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4636,
+      "sha256": "41BFA03142188B973BBE37B0678FEC83BC9EEA4997BC9F49A3FFAD0F5DCF067A"
+    },
+    {
+      "path": "README.md",
+      "bytes": 418,
+      "sha256": "8954706F8DA1E53B050F8B43363C93F80DAEF5C2DE6508DE1D0534FCF96FEC32"
+    },
+    {
+      "path": "sharing.js",
+      "bytes": 3943,
+      "sha256": "2A4D0CF83828FF3875280E6FB35DF6656A98EFB47A85A3D6EF9AD92E12FD2768"
+    },
+    {
+      "path": "Build/05980831e2dc26a6ddb8d18cf07e03cf.framework.js.unityweb",
+      "bytes": 89703,
+      "sha256": "740EE178E43E7A01690E64A60ADD2132537BB2038D2DB4B82385D9DBDDD2AC39"
+    },
+    {
+      "path": "Build/4151164d9875a6dea5949ff4af16c94f.data.unityweb",
+      "bytes": 11543938,
+      "sha256": "5761903A951C1361440BC2012F73C1C45EE8A76402BA66105092802F5236D8AF"
+    },
+    {
+      "path": "Build/590bcd62a8cb70b7d8740d7a1283867a.wasm.unityweb",
+      "bytes": 12412813,
+      "sha256": "168D5727C4092C45D2645A35B28FBF2FCE8FA8F5F6C599127F7F81DD496A6AE0"
+    },
+    {
+      "path": "Build/d5fc56fa01a0220ee13a13d37d65e96c.loader.js",
+      "bytes": 40316,
+      "sha256": "F96F18C491B4F3BB1E9757E7D7D025B4EEA50B20A4FE00DE057675B1586138BD"
+    }
+  ]
+}
